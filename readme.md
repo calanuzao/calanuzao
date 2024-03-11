@@ -43,7 +43,7 @@
 <p>
 <img align="right" width="350" src="https://media3.giphy.com/media/Q5M7gBKo3SCUjz9FWl/giphy.gif?cid=6c09b952m61j1whv8xob0x969xb66p308d3iyi347yq0m8a4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Synthesizer gif">
   
- 🐝 &emsp; Producer and Audio Programmer seeking tech solutions for the hearing impaired <br/><br/>
+ 🐝 &emsp; Audio Programmer seeking tech solutions for the hearing impaired <br/><br/>
  📈 &emsp; Founder of calodii™ and 0 Tolerance Security LLC <br/><br/>
  ❤️ &emsp; Passionate about branding and DSP Algorithms <br/><br/>
  🧠 &emsp; Professional background in Cybersecurity and Media Production <br/><br/>
