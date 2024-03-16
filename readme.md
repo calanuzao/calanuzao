@@ -56,7 +56,9 @@
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" width="150" height="30">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="150" height="30">
+    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Python" width="150" height="30">
     <img src="https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode" alt="XCode" width="150" height="30">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="150" height="30">
+    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Git" width="150" height="30">
 </div>
 
