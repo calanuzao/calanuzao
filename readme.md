@@ -54,11 +54,13 @@
 ## Technical Skillset
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" width="150" height="30">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="150" height="30">
-    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Python" width="150" height="30">
-    <img src="https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode" alt="XCode" width="150" height="30">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="150" height="30">
-    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Git" width="150" height="30">
+    <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="MySQL" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode" alt="XCode" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/MATLAB-blue?logo=mathworks&style=for-the-badge&logoWidth=40&logoHeight=30" alt="MATLAB" style="width: 120px; height: 30px; margin: 5px;">
+    <img src="https://img.shields.io/badge/JUCE-blue?logo=juce&style=for-the-badge&logoWidth=40&logoHeight=30" alt="JUCE" style="width: 120px; height: 30px; margin: 5px;">
 </div>
-
