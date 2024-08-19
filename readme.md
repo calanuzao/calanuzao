@@ -18,7 +18,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Brand Analyst & Audio Programmer from <b>Guatemala</b> 」
+    「 Cybersecurity Analyst & Acoustic Engineer from <b>Guatemala</b> 」
     <br>
     <br>
   </samp>
