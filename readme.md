@@ -47,7 +47,7 @@
  📈 &emsp; Hearing Aids Acoustical Engineering Research <br/><br/>
  ❤️ &emsp; Passionate about branding and DSP Algorithms <br/><br/>
  🧠 &emsp; Professional background in Cybersecurity and Media Production <br/><br/>
- 📧 &emsp; Reach me anytime: calanuzao@yahoo.com <br/><br/>
+ 📧 &emsp; Reach me anytime: cal8272@nyu.edu <br/><br/>
 
 </p>
 
