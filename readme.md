@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://chrislanuza.myportfolio.com" target="blank"> 
+ <a href="https://calanuzao.github.io/index.html" target="blank"> 
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="calanuzao" />
  </a>
  <a href="https://www.linkedin.com/in/christopherlanuza/" target="_blank">
