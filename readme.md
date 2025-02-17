@@ -47,7 +47,7 @@
  🐝 &emsp; Seeking Technical Solutions for Hearing Impairments <br/><br/>
  📈 &emsp; Hearing Aids, HRTFs, and Spatialized Audio Information <br/><br/>
  ❤️ &emsp; Passionate about marketing analytics and Digital Signal Processing <br/><br/>
- 🧠 &emsp; Professional Background in Cybersecurity and Media Production <br/><br/>
+ 🧠 &emsp; Professional Background in Cybersecurity and Marketing Analytics <br/><br/>
  📧 &emsp; Reach me anytime: cal8272@nyu.edu <br/><br/>
 
 </p>
