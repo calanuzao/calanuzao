@@ -43,12 +43,13 @@
 <p>
 <img align="right" width="350" src="https://media3.giphy.com/media/Q5M7gBKo3SCUjz9FWl/giphy.gif?cid=6c09b952m61j1whv8xob0x969xb66p308d3iyi347yq0m8a4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Synthesizer gif">
   
- 🔈 &emsp; MEng in Acoustics & Music Technology @NYU <br/><br/>
- 🐝 &emsp; Advancing Assistive Hearing Technologies <br/><br/>
- 📈 &emsp; Hearing Aids, HRTFs, and Spatialized Audio Information <br/><br/>
- ❤️ &emsp; Passionate About Marketing Analytics & Digital Signal Processing <br/><br/>
- 🧠 &emsp; Professional Background in Marketing Analytics, Software Development, and Acoustical Engineering <br/><br/>
- 📧 &emsp; Reach me anytime: cal8272@nyu.edu <br/><br/>
+🔈 &emsp; Acoustical & Electrical Engineering (DSP Focus) @ NYU <br/><br/>
+🐝 &emsp; DSP Architectures for Hearing Aid Systems <br/><br/>
+📈 &emsp; Spatial Audio, HRTFs & Auditory Signal Analysis <br/><br/>
+❤️ &emsp; Applied Signal Processing & Data-Driven Engineering Analytics <br/><br/>
+🧠 &emsp; Professional Experience in Electrical Engineering, Audio Software Development & Acoustics <br/><br/>
+📧 &emsp; Reach me anytime: cal8272@nyu.edu <br/><br/>
+
 
 </p>
 
