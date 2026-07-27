@@ -1,4 +1,9 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=calanuzao)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=calanuzao&theme=github-dark&config=https://raw.githubusercontent.com/calanuzao/calanuzao/main/config.json">
+    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=calanuzao&theme=github-light&config=https://raw.githubusercontent.com/calanuzao/calanuzao/main/config.json">
+  </picture>
+</p>
 
 <!-- <h2 align="center">
   Christopher Lanuza
