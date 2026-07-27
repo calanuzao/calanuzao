@@ -1,6 +1,4 @@
-<p align="center">
-  <![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=calanuzao) />
-</p>
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=calanuzao)
 
 <!-- <h2 align="center">
   Christopher Lanuza
