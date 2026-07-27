@@ -2,12 +2,43 @@
   "sections": [
     {
       "title": "{{username}}@github",
-      "items": [
-        { "label": "Name", "value": "Christopher Lanuza" },
-        { "label": "Role", "value": "Acoustical Engineer" },
-        { "label": "Focus", "value": "DSP, acoustics, spatial audio" },
-        { "label": "School", "value": "NYU" }
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Company", "value": "{{company}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "IDE", "value": "CLion, VSCode, Neovim" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "COMSOL, AutoCAD, Linux" },
+        { "key": "Hobbies.Hardware", "value": "Music Technology" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "https://github.com/{{username}}" },
+        { "key": "Twitter", "value": "{{twitter}}" }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
 }
