@@ -1,4 +1,4 @@
-![Neofetch Profile](https://neofetch-profile.vercel.app/api?username=calanuzao&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fjeantimex%2Fneofetch-profile%2Fmain%2Fpublic%2Fconfig.json)
+![Neofetch Profile](https://neofetch-profile.vercel.app/api?username=calanuzao&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fcalanuzao%2Fcalanuzao%2Frefs%2Fheads%2Fmain%2Fconfig.json)
 
 <!-- <h2 align="center">
   Christopher Lanuza
