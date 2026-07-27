@@ -1,0 +1,13 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "items": [
+        { "label": "Name", "value": "Christopher Lanuza" },
+        { "label": "Role", "value": "Acoustical Engineer" },
+        { "label": "Focus", "value": "DSP, acoustics, spatial audio" },
+        { "label": "School", "value": "NYU" }
+      ]
+    }
+  ]
+}
