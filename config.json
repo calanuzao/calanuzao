@@ -25,9 +25,8 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
+        { "key": "Email", "value": "calanuzao@gmail.com" },
         { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
       ]
     }
   ],
