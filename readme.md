@@ -39,9 +39,10 @@
 </p>
 <br />
 
-<!-- About Section -->
--- # About me --
- 
+<!-- About Section
+# About me
+-->
+
 <p>
 <img align="right" width="350" src="https://media3.giphy.com/media/Q5M7gBKo3SCUjz9FWl/giphy.gif?cid=6c09b952m61j1whv8xob0x969xb66p308d3iyi347yq0m8a4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Synthesizer gif">
   
@@ -55,7 +56,7 @@
 
 </p>
 
-## Technical Skillset
+<!-- ## Technical Skillset -->
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" style="width: 120px; height: 30px; margin: 5px;">
