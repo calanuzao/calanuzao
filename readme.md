@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://neofetch-profile.vercel.app/api?username=calanuzao&config=https://raw.githubusercontent.com/calanuzao/calanuzao/main/config.json" alt="Neofetch Stats" />
+  <![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=calanuzao) />
 </p>
 
 <!-- <h2 align="center">
