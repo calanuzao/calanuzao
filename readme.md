@@ -26,19 +26,6 @@
 </p>
 -->
 
-<p align="center">
- <a href="https://calanuzao.github.io/index.html" target="blank"> 
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="calanuzao" />
- </a>
- <a href="https://www.linkedin.com/in/christopherlanuza/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="calanuzao"/>
- </a>
- <a href="https://www.instagram.com/calodii/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="calanuzao" />
- </a> 
-</p>
-<br />
-
 <!-- About Section
 # About me
 -->
@@ -52,12 +39,24 @@
 ❤️ &emsp; Applied Signal Processing & Data-Driven Engineering Analytics <br/><br/>
 🧠 &emsp; Professional Experience in Electrical Engineering, Audio Software Development & Acoustics <br/><br/>
 📧 &emsp; Reach me anytime: cal8272@nyu.edu <br/><br/>
-
-
 </p>
+
+<p align="center">
+ <a href="https://calanuzao.github.io/index.html" target="blank"> 
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="calanuzao" />
+ </a>
+ <a href="https://www.linkedin.com/in/christopherlanuza/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="calanuzao"/>
+ </a>
+ <a href="https://www.instagram.com/calodii/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="calanuzao" />
+ </a> 
+</p>
+<br />
 
 <!-- ## Technical Skillset -->
 
+<!--
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" style="width: 120px; height: 30px; margin: 5px;">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="width: 120px; height: 30px; margin: 5px;">
@@ -69,3 +68,4 @@
     <img src="https://img.shields.io/badge/MATLAB-blue?logo=mathworks&style=for-the-badge&logoWidth=40&logoHeight=30" alt="MATLAB" style="width: 120px; height: 30px; margin: 5px;">
     <img src="https://img.shields.io/badge/JUCE-blue?logo=juce&style=for-the-badge&logoWidth=40&logoHeight=30" alt="JUCE" style="width: 120px; height: 30px; margin: 5px;">
 </div>
+-->
