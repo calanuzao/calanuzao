@@ -36,8 +36,7 @@
 🔈 &emsp; Acoustical & Electrical Engineer @NYU <br/><br/>
 ❤️ &emsp; Noise & Vibration Engineer @MTA <br/><br/>
 🐝 &emsp; DSP Architectures for Hearing Aid Systems <br/><br/>
-📈 &emsp; Spatial Audio, HRTFs & Auditory Signal Analysis <br/><br/>
-🧠 &emsp; Professional Experience in Electrical Engineering, Audio Software Development & Acoustics <br/><br/>
+🧠 &emsp; Spatial Audio, HRTFs & Auditory Signal Analysis <br/><br/>
 📧 &emsp; Reach me anytime: cal8272@nyu.edu <br/><br/>
 </p>
 
