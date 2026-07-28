@@ -1,7 +1,4 @@
 {
-  "image": "https://raw.githubusercontent.com/calanuzao/calanuzao/refs/heads/main/assets/programmer.gif",
-  "coloredImage": true,
-  "imageScale": 1,
   "sections": [
     {
       "title": "{{username}}@github",
